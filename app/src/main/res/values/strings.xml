@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Мои Заметки</string>
+
+    <string name="main_title">Список заметок</string>
+    <string name="btn_note_1">1. Покупки на неделю</string>
+    <string name="btn_note_2">2. Идеи для проекта</string>
+    <string name="btn_create_note">Создать заметку</string>
+
+    <string name="detail_title">Просмотр заметки</string>
+    <string name="btn_back">Назад</string>
+    <string name="photo_desc">Иконка заметки</string>
+
+    <string name="edit_title">Новая заметка</string>
+    <string name="hint_note_title">Введите заголовок</string>
+    <string name="hint_note_content">Введите текст заметки…</string>
+    <string name="btn_save">Сохранить</string>
+</resources>
