@@ -4,4 +4,6 @@
         <item name="colorPrimaryVariant">@color/primary_dark</item>
         <item name="colorSecondary">@color/color_accent</item>
     </style>
+
+    <style name="Theme.NotesApp" parent="Base.Theme.NotesApp" />
 </resources>
