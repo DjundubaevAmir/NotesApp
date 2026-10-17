@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="@dimen/screen_padding">
+    android:padding="@dimen/screen_padding"
+    android:background="@color/background_light">
 
     <ImageView
         android:id="@+id/ivNoteIcon"
@@ -30,6 +32,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/ivNoteIcon"
         android:layout_marginTop="@dimen/screen_padding"
+        android:textColor="@color/text_primary"
         android:textSize="@dimen/text_body" />
 
     <Button
@@ -37,6 +40,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:text="@string/btn_back" />
+        android:text="@string/btn_back"
+        app:backgroundTint="@color/primary" />
 
 </RelativeLayout>
