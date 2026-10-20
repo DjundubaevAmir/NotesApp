@@ -1,257 +1,48 @@
-﻿--------- beginning of main
-10-17 09:00:17.441  2680  2680 D DetailActivity: onStop
-10-17 09:00:17.444  2680  2680 D DetailActivity: onDestroy
-10-17 09:00:17.791  2680  2680 I MainActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨╜╨░╨╢╨░╨╗ ╨╜╨░ ╨Ч╨░╨╝╨╡╤В╨║╤Г 2
-10-17 09:00:17.824  2680  2680 D MainActivity: onPause
-10-17 09:00:17.874  2680  2680 D DetailActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨┐╤А╨╛╤Б╨╝╨╛╤В╤А╨░ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:00:17.875  2680  2680 I DetailActivity: ╨Я╨╛╨╗╤Г╤З╨╡╨╜╤Л ╨┤╨░╨╜╨╜╤Л╨╡: ╨Ч╨░╨│╨╛╨╗╨╛╨▓╨╛╨║ = ╨Ф╨╛╨╝╨░╤И╨║╨░ ╨┐╨╛ ╤А╨░╨╖╤А╨╛╨▒╨╛╤В╨║╨╡ ╨╝╨╛╨▒╨╕╨╗╤М╨╜╤Л╤Е ╨┐╤А╨╕╨╗╨╛╨╢╨╡╨╜╨╕╨╣
-10-17 09:00:17.876  2680  2680 D DetailActivity: onStart
-10-17 09:00:17.884  2680  2680 D DetailActivity: onResume
-10-17 09:00:18.677  2680  2680 D MainActivity: onStop
-10-17 09:00:24.654  2680  2680 I DetailActivity: ╨Э╨░╨╢╨░╤В╨░ ╨║╨╜╨╛╨┐╨║╨░ ╨Э╨░╨╖╨░╨┤
-10-17 09:00:24.672  2680  2680 D DetailActivity: onPause
-10-17 09:00:24.702  2680  2680 D MainActivity: onStart
-10-17 09:00:24.702  2680  2680 D MainActivity: onResume
-10-17 09:00:25.382  2680  2680 D DetailActivity: onStop
-10-17 09:00:25.383  2680  2680 D DetailActivity: onDestroy
-10-17 09:00:25.675  2680  2680 I MainActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨╜╨░╨╢╨░╨╗ ╨║╨╜╨╛╨┐╨║╤Г ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╖╨░╨╝╨╡╤В╨║╨╕
-10-17 09:00:25.707  2680  2680 D MainActivity: onPause
-10-17 09:00:25.803  2680  2680 D EditActivity: onCreate: ╨н╨║╤А╨░╨╜ ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╖╨░╨╝╨╡╤В╨║╨╕ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:00:25.805  2680  2680 D EditActivity: onStart
-10-17 09:00:25.806  2680  2680 D EditActivity: onResume
-10-17 09:00:26.537  2680  2680 D MainActivity: onStop
-10-17 09:00:37.925  2680  2680 I EditActivity: ╨Ч╨░╨╝╨╡╤В╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╤Б╨╛╨╖╨┤╨░╨╜╨░: gggg
-10-17 09:00:37.953  2680  2680 D EditActivity: onPause
-10-17 09:00:38.024  2680  2680 D DetailActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨┐╤А╨╛╤Б╨╝╨╛╤В╤А╨░ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:00:38.025  2680  2680 I DetailActivity: ╨Я╨╛╨╗╤Г╤З╨╡╨╜╤Л ╨┤╨░╨╜╨╜╤Л╨╡: ╨Ч╨░╨│╨╛╨╗╨╛╨▓╨╛╨║ = gggg
-10-17 09:00:38.028  2680  2680 D DetailActivity: onStart
-10-17 09:00:38.036  2680  2680 D DetailActivity: onResume
-10-17 09:00:39.021  2680  2680 D EditActivity: onStop
-10-17 09:00:39.025  2680  2680 D EditActivity: onDestroy
-10-17 09:00:39.793  2680  2680 I DetailActivity: ╨Э╨░╨╢╨░╤В╨░ ╨║╨╜╨╛╨┐╨║╨░ ╨Э╨░╨╖╨░╨┤
-10-17 09:00:39.809  2680  2680 D DetailActivity: onPause
-10-17 09:00:39.837  2680  2680 D MainActivity: onStart
-10-17 09:00:39.837  2680  2680 D MainActivity: onResume
-10-17 09:00:40.544  2680  2680 D DetailActivity: onStop
-10-17 09:00:40.546  2680  2680 D DetailActivity: onDestroy
-10-17 09:00:44.554  2680  2680 I MainActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨╜╨░╨╢╨░╨╗ ╨╜╨░ ╨Ч╨░╨╝╨╡╤В╨║╤Г 2
-10-17 09:00:44.604  2680  2680 D MainActivity: onPause
-10-17 09:00:44.687  2680  2680 D DetailActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨┐╤А╨╛╤Б╨╝╨╛╤В╤А╨░ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:00:44.687  2680  2680 I DetailActivity: ╨Я╨╛╨╗╤Г╤З╨╡╨╜╤Л ╨┤╨░╨╜╨╜╤Л╨╡: ╨Ч╨░╨│╨╛╨╗╨╛╨▓╨╛╨║ = ╨Ф╨╛╨╝╨░╤И╨║╨░ ╨┐╨╛ ╤А╨░╨╖╤А╨╛╨▒╨╛╤В╨║╨╡ ╨╝╨╛╨▒╨╕╨╗╤М╨╜╤Л╤Е ╨┐╤А╨╕╨╗╨╛╨╢╨╡╨╜╨╕╨╣
-10-17 09:00:44.702  2680  2680 D DetailActivity: onStart
-10-17 09:00:44.703  2680  2680 D DetailActivity: onResume
-10-17 09:00:45.555  2680  2680 D MainActivity: onStop
-10-17 09:00:46.113  2680  2680 I DetailActivity: ╨Э╨░╨╢╨░╤В╨░ ╨║╨╜╨╛╨┐╨║╨░ ╨Э╨░╨╖╨░╨┤
-10-17 09:00:46.140  2680  2680 D DetailActivity: onPause
-10-17 09:00:46.187  2680  2680 D MainActivity: onStart
-10-17 09:00:46.188  2680  2680 D MainActivity: onResume
-10-17 09:00:46.959  2680  2680 I MainActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨╜╨░╨╢╨░╨╗ ╨║╨╜╨╛╨┐╨║╤Г ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╖╨░╨╝╨╡╤В╨║╨╕
-10-17 09:00:47.003  2680  2680 D MainActivity: onPause
-10-17 09:00:47.055  2680  2680 D EditActivity: onCreate: ╨н╨║╤А╨░╨╜ ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╖╨░╨╝╨╡╤В╨║╨╕ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:00:47.057  2680  2680 D EditActivity: onStart
-10-17 09:00:47.064  2680  2680 D EditActivity: onResume
-10-17 09:00:47.339  2680  2680 D DetailActivity: onStop
-10-17 09:00:47.344  2680  2680 D DetailActivity: onDestroy
-10-17 09:00:47.758  2680  2680 D MainActivity: onStop
-10-17 09:00:48.354  2680  2680 W EditActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨┐╤Л╤В╨░╨╡╤В╤Б╤П ╤Б╨╛╤Е╤А╨░╨╜╨╕╤В╤М ╨╖╨░╨╝╨╡╤В╨║╤Г ╨▒╨╡╨╖ ╨╖╨░╨│╨╛╨╗╨╛╨▓╨║╨░
-10-17 09:00:52.035  2680  2680 I EditActivity: ╨Ч╨░╨╝╨╡╤В╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╤Б╨╛╨╖╨┤╨░╨╜╨░: hjnhhh
-10-17 09:00:52.056  2680  2680 D EditActivity: onPause
-10-17 09:00:52.077  2680  2680 D DetailActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨┐╤А╨╛╤Б╨╝╨╛╤В╤А╨░ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:00:52.077  2680  2680 I DetailActivity: ╨Я╨╛╨╗╤Г╤З╨╡╨╜╤Л ╨┤╨░╨╜╨╜╤Л╨╡: ╨Ч╨░╨│╨╛╨╗╨╛╨▓╨╛╨║ = hjnhhh
-10-17 09:00:52.078  2680  2680 D DetailActivity: onStart
-10-17 09:00:52.079  2680  2680 D DetailActivity: onResume
-10-17 09:00:52.765  2680  2680 D EditActivity: onStop
-10-17 09:00:52.767  2680  2680 D EditActivity: onDestroy
-10-17 09:00:53.464  2680  2680 I DetailActivity: ╨Э╨░╨╢╨░╤В╨░ ╨║╨╜╨╛╨┐╨║╨░ ╨Э╨░╨╖╨░╨┤
-10-17 09:00:53.474  2680  2680 D DetailActivity: onPause
-10-17 09:00:53.489  2680  2680 D MainActivity: onStart
-10-17 09:00:53.489  2680  2680 D MainActivity: onResume
-10-17 09:00:54.160  2680  2680 D DetailActivity: onStop
-10-17 09:00:54.161  2680  2680 D DetailActivity: onDestroy
-10-17 09:05:25.153  6874  6874 D MainActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨│╨╗╨░╨▓╨╜╨╛╨│╨╛ ╤Б╨┐╨╕╤Б╨║╨░ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:05:25.160  6874  6874 D MainActivity: onStart
-10-17 09:05:25.164  6874  6874 D MainActivity: onResume
-10-17 09:05:33.303  6874  6874 I MainActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨╜╨░╨╢╨░╨╗ ╨╜╨░ ╨Ч╨░╨╝╨╡╤В╨║╤Г 1
-10-17 09:05:33.311  6874  6874 D MainActivity: onPause
-10-17 09:05:33.335  6874  6874 D DetailActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨┐╤А╨╛╤Б╨╝╨╛╤В╤А╨░ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:05:33.336  6874  6874 I DetailActivity: ╨Я╨╛╨╗╤Г╤З╨╡╨╜╤Л ╨┤╨░╨╜╨╜╤Л╨╡: ╨Ч╨░╨│╨╛╨╗╨╛╨▓╨╛╨║ = ╨Я╨╛╨║╤Г╨┐╨║╨╕ ╨╜╨░ ╨╜╨╡╨┤╨╡╨╗╤О
-10-17 09:05:33.337  6874  6874 D DetailActivity: onStart
-10-17 09:05:33.337  6874  6874 D DetailActivity: onResume
-10-17 09:05:33.972  6874  6874 D MainActivity: onStop
-10-17 09:05:36.744  6874  6874 I DetailActivity: ╨Э╨░╨╢╨░╤В╨░ ╨║╨╜╨╛╨┐╨║╨░ ╨Э╨░╨╖╨░╨┤
-10-17 09:05:36.750  6874  6874 D DetailActivity: onPause
-10-17 09:05:36.765  6874  6874 D MainActivity: onStart
-10-17 09:05:36.765  6874  6874 D MainActivity: onResume
-10-17 09:05:37.436  6874  6874 D DetailActivity: onStop
-10-17 09:05:37.436  6874  6874 D DetailActivity: onDestroy
-10-17 09:05:37.820  6874  6874 I MainActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨╜╨░╨╢╨░╨╗ ╨╜╨░ ╨Ч╨░╨╝╨╡╤В╨║╤Г 1
-10-17 09:05:37.826  6874  6874 D MainActivity: onPause
-10-17 09:05:37.838  6874  6874 D DetailActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨┐╤А╨╛╤Б╨╝╨╛╤В╤А╨░ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:05:37.838  6874  6874 I DetailActivity: ╨Я╨╛╨╗╤Г╤З╨╡╨╜╤Л ╨┤╨░╨╜╨╜╤Л╨╡: ╨Ч╨░╨│╨╛╨╗╨╛╨▓╨╛╨║ = ╨Я╨╛╨║╤Г╨┐╨║╨╕ ╨╜╨░ ╨╜╨╡╨┤╨╡╨╗╤О
-10-17 09:05:37.839  6874  6874 D DetailActivity: onStart
-10-17 09:05:37.839  6874  6874 D DetailActivity: onResume
-10-17 09:05:38.466  6874  6874 D MainActivity: onStop
-10-17 09:05:39.276  6874  6874 I DetailActivity: ╨Э╨░╨╢╨░╤В╨░ ╨║╨╜╨╛╨┐╨║╨░ ╨Э╨░╨╖╨░╨┤
-10-17 09:05:39.282  6874  6874 D DetailActivity: onPause
-10-17 09:05:39.302  6874  6874 D MainActivity: onStart
-10-17 09:05:39.303  6874  6874 D MainActivity: onResume
-10-17 09:05:39.908  6874  6874 D DetailActivity: onStop
-10-17 09:05:39.908  6874  6874 D DetailActivity: onDestroy
-10-17 09:05:40.199  6874  6874 I MainActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨╜╨░╨╢╨░╨╗ ╨╜╨░ ╨Ч╨░╨╝╨╡╤В╨║╤Г 2
-10-17 09:05:40.206  6874  6874 D MainActivity: onPause
-10-17 09:05:40.221  6874  6874 D DetailActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨┐╤А╨╛╤Б╨╝╨╛╤В╤А╨░ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:05:40.221  6874  6874 I DetailActivity: ╨Я╨╛╨╗╤Г╤З╨╡╨╜╤Л ╨┤╨░╨╜╨╜╤Л╨╡: ╨Ч╨░╨│╨╛╨╗╨╛╨▓╨╛╨║ = ╨Ф╨╛╨╝╨░╤И╨║╨░ ╨┐╨╛ ╤А╨░╨╖╤А╨╛╨▒╨╛╤В╨║╨╡ ╨╝╨╛╨▒╨╕╨╗╤М╨╜╤Л╤Е ╨┐╤А╨╕╨╗╨╛╨╢╨╡╨╜╨╕╨╣
-10-17 09:05:40.222  6874  6874 D DetailActivity: onStart
-10-17 09:05:40.223  6874  6874 D DetailActivity: onResume
-10-17 09:05:40.836  6874  6874 D MainActivity: onStop
-10-17 09:05:42.327  6874  6874 I DetailActivity: ╨Э╨░╨╢╨░╤В╨░ ╨║╨╜╨╛╨┐╨║╨░ ╨Э╨░╨╖╨░╨┤
-10-17 09:05:42.333  6874  6874 D DetailActivity: onPause
-10-17 09:05:42.350  6874  6874 D MainActivity: onStart
-10-17 09:05:42.350  6874  6874 D MainActivity: onResume
-10-17 09:05:43.041  6874  6874 D DetailActivity: onStop
-10-17 09:05:43.042  6874  6874 D DetailActivity: onDestroy
-10-17 09:05:50.084  7024  7024 D MainActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨│╨╗╨░╨▓╨╜╨╛╨│╨╛ ╤Б╨┐╨╕╤Б╨║╨░ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:05:50.091  7024  7024 D MainActivity: onStart
-10-17 09:05:50.095  7024  7024 D MainActivity: onResume
-10-17 09:05:56.168  7024  7024 I MainActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨╜╨░╨╢╨░╨╗ ╨╜╨░ ╨Ч╨░╨╝╨╡╤В╨║╤Г 1
-10-17 09:05:56.177  7024  7024 D MainActivity: onPause
-10-17 09:05:56.200  7024  7024 D DetailActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨┐╤А╨╛╤Б╨╝╨╛╤В╤А╨░ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:05:56.200  7024  7024 I DetailActivity: ╨Я╨╛╨╗╤Г╤З╨╡╨╜╤Л ╨┤╨░╨╜╨╜╤Л╨╡: ╨Ч╨░╨│╨╛╨╗╨╛╨▓╨╛╨║ = ╨Я╨╛╨║╤Г╨┐╨║╨╕ ╨╜╨░ ╨╜╨╡╨┤╨╡╨╗╤О
-10-17 09:05:56.202  7024  7024 D DetailActivity: onStart
-10-17 09:05:56.202  7024  7024 D DetailActivity: onResume
-10-17 09:05:56.930  7024  7024 D MainActivity: onStop
-10-17 09:05:57.575  7024  7024 I DetailActivity: ╨Э╨░╨╢╨░╤В╨░ ╨║╨╜╨╛╨┐╨║╨░ ╨Э╨░╨╖╨░╨┤
-10-17 09:05:57.581  7024  7024 D DetailActivity: onPause
-10-17 09:05:57.606  7024  7024 D MainActivity: onStart
-10-17 09:05:57.607  7024  7024 D MainActivity: onResume
-10-17 09:05:57.978  7024  7024 I MainActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨╜╨░╨╢╨░╨╗ ╨║╨╜╨╛╨┐╨║╤Г ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╖╨░╨╝╨╡╤В╨║╨╕
-10-17 09:05:57.988  7024  7024 D MainActivity: onPause
-10-17 09:05:58.020  7024  7024 D EditActivity: onCreate: ╨н╨║╤А╨░╨╜ ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╖╨░╨╝╨╡╤В╨║╨╕ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:05:58.022  7024  7024 D EditActivity: onStart
-10-17 09:05:58.022  7024  7024 D EditActivity: onResume
-10-17 09:05:58.197  7024  7024 D DetailActivity: onStop
-10-17 09:05:58.199  7024  7024 D DetailActivity: onDestroy
-10-17 09:05:58.654  7024  7024 D MainActivity: onStop
-10-17 09:05:58.812  7024  7024 W EditActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨┐╤Л╤В╨░╨╡╤В╤Б╤П ╤Б╨╛╤Е╤А╨░╨╜╨╕╤В╤М ╨╖╨░╨╝╨╡╤В╨║╤Г ╨▒╨╡╨╖ ╨╖╨░╨│╨╛╨╗╨╛╨▓╨║╨░
-10-17 09:06:00.256  7024  7024 D EditActivity: onPause
-10-17 09:06:00.279  7024  7024 D EditActivity: onStop
-10-17 09:06:01.479  7024  7024 D EditActivity: onStart
-10-17 09:06:01.480  7024  7024 D EditActivity: onResume
-10-17 09:06:05.891  7024  7024 D EditActivity: onPause
-10-17 09:06:05.973  7024  7024 D EditActivity: onStop
-10-17 09:06:05.974  7024  7024 D MainActivity: onDestroy
-10-17 09:06:05.980  7024  7024 D EditActivity: onDestroy
-10-17 09:57:15.486  9814  9814 D MainActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨│╨╗╨░╨▓╨╜╨╛╨│╨╛ ╤Б╨┐╨╕╤Б╨║╨░ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:57:15.515  9814  9814 D MainActivity: onStart
-10-17 09:57:15.520  9814  9814 D MainActivity: onResume
-10-17 09:57:15.551  9814  9814 D MainActivity: onPause
-10-17 09:57:15.691  9814  9814 D MainActivity: onStop
-10-17 09:57:24.967  9814  9814 D MainActivity: onStart
-10-17 09:57:24.969  9814  9814 D MainActivity: onResume
-10-17 09:57:49.954  9814  9814 I MainActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨╜╨░╨╢╨░╨╗ ╨╜╨░ ╨Ч╨░╨╝╨╡╤В╨║╤Г 1
-10-17 09:57:49.971  9814  9814 D MainActivity: onPause
-10-17 09:57:49.994  9814  9814 D DetailActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨┐╤А╨╛╤Б╨╝╨╛╤В╤А╨░ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:57:49.994  9814  9814 I DetailActivity: ╨Я╨╛╨╗╤Г╤З╨╡╨╜╤Л ╨┤╨░╨╜╨╜╤Л╨╡: ╨Ч╨░╨│╨╛╨╗╨╛╨▓╨╛╨║ = ╨Я╨╛╨║╤Г╨┐╨║╨╕ ╨╜╨░ ╨╜╨╡╨┤╨╡╨╗╤О
-10-17 09:57:49.995  9814  9814 D DetailActivity: onStart
-10-17 09:57:49.996  9814  9814 D DetailActivity: onResume
-10-17 09:57:50.667  9814  9814 D MainActivity: onStop
-10-17 09:57:51.781  9814  9814 I DetailActivity: ╨Э╨░╨╢╨░╤В╨░ ╨║╨╜╨╛╨┐╨║╨░ ╨Э╨░╨╖╨░╨┤
-10-17 09:57:51.789  9814  9814 D DetailActivity: onPause
-10-17 09:57:51.801  9814  9814 D MainActivity: onStart
-10-17 09:57:51.801  9814  9814 D MainActivity: onResume
-10-17 09:57:52.419  9814  9814 D DetailActivity: onStop
-10-17 09:57:52.420  9814  9814 D DetailActivity: onDestroy
-10-17 09:57:52.800  9814  9814 I MainActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨╜╨░╨╢╨░╨╗ ╨╜╨░ ╨Ч╨░╨╝╨╡╤В╨║╤Г 2
-10-17 09:57:52.809  9814  9814 D MainActivity: onPause
-10-17 09:57:52.824  9814  9814 D DetailActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨┐╤А╨╛╤Б╨╝╨╛╤В╤А╨░ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:57:52.824  9814  9814 I DetailActivity: ╨Я╨╛╨╗╤Г╤З╨╡╨╜╤Л ╨┤╨░╨╜╨╜╤Л╨╡: ╨Ч╨░╨│╨╛╨╗╨╛╨▓╨╛╨║ = ╨Ф╨╛╨╝╨░╤И╨║╨░ ╨┐╨╛ ╤А╨░╨╖╤А╨╛╨▒╨╛╤В╨║╨╡ ╨╝╨╛╨▒╨╕╨╗╤М╨╜╤Л╤Е ╨┐╤А╨╕╨╗╨╛╨╢╨╡╨╜╨╕╨╣
-10-17 09:57:52.825  9814  9814 D DetailActivity: onStart
-10-17 09:57:52.825  9814  9814 D DetailActivity: onResume
-10-17 09:57:53.406  9814  9814 D MainActivity: onStop
-10-17 09:57:55.294  9814  9814 I DetailActivity: ╨Э╨░╨╢╨░╤В╨░ ╨║╨╜╨╛╨┐╨║╨░ ╨Э╨░╨╖╨░╨┤
-10-17 09:57:55.306  9814  9814 D DetailActivity: onPause
-10-17 09:57:55.321  9814  9814 D MainActivity: onStart
-10-17 09:57:55.322  9814  9814 D MainActivity: onResume
-10-17 09:57:55.971  9814  9814 D DetailActivity: onStop
-10-17 09:57:55.972  9814  9814 D DetailActivity: onDestroy
-10-17 09:57:56.573  9814  9814 I MainActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨╜╨░╨╢╨░╨╗ ╨╜╨░ ╨Ч╨░╨╝╨╡╤В╨║╤Г 2
-10-17 09:57:56.586  9814  9814 D MainActivity: onPause
-10-17 09:57:56.606  9814  9814 D DetailActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨┐╤А╨╛╤Б╨╝╨╛╤В╤А╨░ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:57:56.606  9814  9814 I DetailActivity: ╨Я╨╛╨╗╤Г╤З╨╡╨╜╤Л ╨┤╨░╨╜╨╜╤Л╨╡: ╨Ч╨░╨│╨╛╨╗╨╛╨▓╨╛╨║ = ╨Ф╨╛╨╝╨░╤И╨║╨░ ╨┐╨╛ ╤А╨░╨╖╤А╨╛╨▒╨╛╤В╨║╨╡ ╨╝╨╛╨▒╨╕╨╗╤М╨╜╤Л╤Е ╨┐╤А╨╕╨╗╨╛╨╢╨╡╨╜╨╕╨╣
-10-17 09:57:56.607  9814  9814 D DetailActivity: onStart
-10-17 09:57:56.607  9814  9814 D DetailActivity: onResume
-10-17 09:57:57.207  9814  9814 D MainActivity: onStop
-10-17 09:57:58.605  9814  9814 I DetailActivity: ╨Э╨░╨╢╨░╤В╨░ ╨║╨╜╨╛╨┐╨║╨░ ╨Э╨░╨╖╨░╨┤
-10-17 09:57:58.609  9814  9814 D DetailActivity: onPause
-10-17 09:57:58.621  9814  9814 D MainActivity: onStart
-10-17 09:57:58.621  9814  9814 D MainActivity: onResume
-10-17 09:57:59.221  9814  9814 D DetailActivity: onStop
-10-17 09:57:59.221  9814  9814 D DetailActivity: onDestroy
-10-17 09:57:59.293  9814  9814 I MainActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨╜╨░╨╢╨░╨╗ ╨║╨╜╨╛╨┐╨║╤Г ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╖╨░╨╝╨╡╤В╨║╨╕
-10-17 09:57:59.305  9814  9814 D MainActivity: onPause
-10-17 09:57:59.340  9814  9814 D EditActivity: onCreate: ╨н╨║╤А╨░╨╜ ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╖╨░╨╝╨╡╤В╨║╨╕ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:57:59.341  9814  9814 D EditActivity: onStart
-10-17 09:57:59.342  9814  9814 D EditActivity: onResume
-10-17 09:57:59.970  9814  9814 D MainActivity: onStop
-10-17 09:58:11.116  9814  9814 I EditActivity: ╨Ч╨░╨╝╨╡╤В╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╤Б╨╛╨╖╨┤╨░╨╜╨░: dgfgdf
-10-17 09:58:11.127  9814  9814 D EditActivity: onPause
-10-17 09:58:11.149  9814  9814 D DetailActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨┐╤А╨╛╤Б╨╝╨╛╤В╤А╨░ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 09:58:11.149  9814  9814 I DetailActivity: ╨Я╨╛╨╗╤Г╤З╨╡╨╜╤Л ╨┤╨░╨╜╨╜╤Л╨╡: ╨Ч╨░╨│╨╛╨╗╨╛╨▓╨╛╨║ = dgfgdf
-10-17 09:58:11.150  9814  9814 D DetailActivity: onStart
-10-17 09:58:11.151  9814  9814 D DetailActivity: onResume
-10-17 09:58:11.839  9814  9814 D EditActivity: onStop
-10-17 09:58:11.840  9814  9814 D EditActivity: onDestroy
-10-17 09:58:13.181  9814  9814 I DetailActivity: ╨Э╨░╨╢╨░╤В╨░ ╨║╨╜╨╛╨┐╨║╨░ ╨Э╨░╨╖╨░╨┤
-10-17 09:58:13.189  9814  9814 D DetailActivity: onPause
-10-17 09:58:13.200  9814  9814 D MainActivity: onStart
-10-17 09:58:13.200  9814  9814 D MainActivity: onResume
-10-17 09:58:13.849  9814  9814 D DetailActivity: onStop
-10-17 09:58:13.850  9814  9814 D DetailActivity: onDestroy
-10-17 10:21:03.220 10130 10130 D MainActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨│╨╗╨░╨▓╨╜╨╛╨│╨╛ ╤Б╨┐╨╕╤Б╨║╨░ ╤Б╨╛╨╖╨┤╨░╨╜
+10-17 10:21:03.220 10130 10130 D MainActivity: onCreate: Экран главного списка создан
 10-17 10:21:03.246 10130 10130 D MainActivity: onStart
 10-17 10:21:03.251 10130 10130 D MainActivity: onResume
-10-17 10:21:05.426 10130 10130 I MainActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨╜╨░╨╢╨░╨╗ ╨╜╨░ ╨Ч╨░╨╝╨╡╤В╨║╤Г 1
+10-17 10:21:05.426 10130 10130 I MainActivity: Пользователь нажала на Заметку 1
 10-17 10:21:05.439 10130 10130 D MainActivity: onPause
-10-17 10:21:05.476 10130 10130 D DetailActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨┐╤А╨╛╤Б╨╝╨╛╤В╤А╨░ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 10:21:05.476 10130 10130 I DetailActivity: ╨Я╨╛╨╗╤Г╤З╨╡╨╜╤Л ╨┤╨░╨╜╨╜╤Л╨╡: ╨Ч╨░╨│╨╛╨╗╨╛╨▓╨╛╨║ = ╨Я╨╛╨║╤Г╨┐╨║╨╕ ╨╜╨░ ╨╜╨╡╨┤╨╡╨╗╤О
+10-17 10:21:05.476 10130 10130 D DetailActivity: onCreate: Экран просмотра создан
+10-17 10:21:05.476 10130 10130 I DetailActivity: Получены данные: Заголовок = Покупки на неделю
 10-17 10:21:05.477 10130 10130 D DetailActivity: onStart
 10-17 10:21:05.478 10130 10130 D DetailActivity: onResume
 10-17 10:21:06.135 10130 10130 D MainActivity: onStop
-10-17 10:21:06.721 10130 10130 I DetailActivity: ╨Э╨░╨╢╨░╤В╨░ ╨║╨╜╨╛╨┐╨║╨░ ╨Э╨░╨╖╨░╨┤
+10-17 10:21:06.721 10130 10130 I DetailActivity: Нажата кнопка Назад
 10-17 10:21:06.726 10130 10130 D DetailActivity: onPause
 10-17 10:21:06.735 10130 10130 D MainActivity: onStart
 10-17 10:21:06.735 10130 10130 D MainActivity: onResume
 10-17 10:21:07.318 10130 10130 D DetailActivity: onStop
 10-17 10:21:07.319 10130 10130 D DetailActivity: onDestroy
-10-17 10:21:07.604 10130 10130 I MainActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨╜╨░╨╢╨░╨╗ ╨╜╨░ ╨Ч╨░╨╝╨╡╤В╨║╤Г 2
+10-17 10:21:07.604 10130 10130 I MainActivity: Пользователь нажала на Заметку 2
 10-17 10:21:07.612 10130 10130 D MainActivity: onPause
-10-17 10:21:07.628 10130 10130 D DetailActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨┐╤А╨╛╤Б╨╝╨╛╤В╤А╨░ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 10:21:07.628 10130 10130 I DetailActivity: ╨Я╨╛╨╗╤Г╤З╨╡╨╜╤Л ╨┤╨░╨╜╨╜╤Л╨╡: ╨Ч╨░╨│╨╛╨╗╨╛╨▓╨╛╨║ = ╨Ф╨╛╨╝╨░╤И╨║╨░ ╨┐╨╛ ╤А╨░╨╖╤А╨╛╨▒╨╛╤В╨║╨╡ ╨╝╨╛╨▒╨╕╨╗╤М╨╜╤Л╤Е ╨┐╤А╨╕╨╗╨╛╨╢╨╡╨╜╨╕╨╣
+10-17 10:21:07.628 10130 10130 D DetailActivity: onCreate: Экран просмотра создан
+10-17 10:21:07.628 10130 10130 I DetailActivity: Получены данные: Заголовок = Домашка по разработке мобильных приложений
 10-17 10:21:07.630 10130 10130 D DetailActivity: onStart
 10-17 10:21:07.630 10130 10130 D DetailActivity: onResume
 10-17 10:21:08.235 10130 10130 D MainActivity: onStop
-10-17 10:21:08.694 10130 10130 I DetailActivity: ╨Э╨░╨╢╨░╤В╨░ ╨║╨╜╨╛╨┐╨║╨░ ╨Э╨░╨╖╨░╨┤
+10-17 10:21:08.694 10130 10130 I DetailActivity: Нажата кнопка Назад
 10-17 10:21:08.704 10130 10130 D DetailActivity: onPause
 10-17 10:21:08.717 10130 10130 D MainActivity: onStart
 10-17 10:21:08.717 10130 10130 D MainActivity: onResume
 10-17 10:21:09.305 10130 10130 D DetailActivity: onStop
 10-17 10:21:09.306 10130 10130 D DetailActivity: onDestroy
-10-17 10:21:09.309 10130 10130 I MainActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨╜╨░╨╢╨░╨╗ ╨║╨╜╨╛╨┐╨║╤Г ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╖╨░╨╝╨╡╤В╨║╨╕
+10-17 10:21:09.309 10130 10130 I MainActivity: Пользователь нажала кнопку создания заметки
 10-17 10:21:09.319 10130 10130 D MainActivity: onPause
-10-17 10:21:09.356 10130 10130 D EditActivity: onCreate: ╨н╨║╤А╨░╨╜ ╤Б╨╛╨╖╨┤╨░╨╜╨╕╤П ╨╖╨░╨╝╨╡╤В╨║╨╕ ╤Б╨╛╨╖╨┤╨░╨╜
+10-17 10:21:09.356 10130 10130 D EditActivity: onCreate: Экран создания заметки создан
 10-17 10:21:09.358 10130 10130 D EditActivity: onStart
 10-17 10:21:09.358 10130 10130 D EditActivity: onResume
 10-17 10:21:09.951 10130 10130 D MainActivity: onStop
-10-17 10:21:10.340 10130 10130 W EditActivity: ╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╤М ╨┐╤Л╤В╨░╨╡╤В╤Б╤П ╤Б╨╛╤Е╤А╨░╨╜╨╕╤В╤М ╨╖╨░╨╝╨╡╤В╨║╤Г ╨▒╨╡╨╖ ╨╖╨░╨│╨╛╨╗╨╛╨▓╨║╨░
-10-17 10:21:16.353 10130 10130 I EditActivity: ╨Ч╨░╨╝╨╡╤В╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╤Б╨╛╨╖╨┤╨░╨╜╨░: ggre
+10-17 10:21:10.340 10130 10130 W EditActivity: Пользователь пытается сохранить заметку без заголовка
+10-17 10:21:16.353 10130 10130 I EditActivity: Заметка успешно создана: Моя новая заметка
 10-17 10:21:16.363 10130 10130 D EditActivity: onPause
-10-17 10:21:16.391 10130 10130 D DetailActivity: onCreate: ╨н╨║╤А╨░╨╜ ╨┐╤А╨╛╤Б╨╝╨╛╤В╤А╨░ ╤Б╨╛╨╖╨┤╨░╨╜
-10-17 10:21:16.391 10130 10130 I DetailActivity: ╨Я╨╛╨╗╤Г╤З╨╡╨╜╤Л ╨┤╨░╨╜╨╜╤Л╨╡: ╨Ч╨░╨│╨╛╨╗╨╛╨▓╨╛╨║ = ggre
+10-17 10:21:16.391 10130 10130 D DetailActivity: onCreate: Экран просмотра создан
+10-17 10:21:16.391 10130 10130 I DetailActivity: Получены данные: Заголовок = Моя новая заметка
 10-17 10:21:16.392 10130 10130 D DetailActivity: onStart
 10-17 10:21:16.392 10130 10130 D DetailActivity: onResume
 10-17 10:21:17.035 10130 10130 D EditActivity: onStop
 10-17 10:21:17.036 10130 10130 D EditActivity: onDestroy
-10-17 10:21:17.721 10130 10130 I DetailActivity: ╨Э╨░╨╢╨░╤В╨░ ╨║╨╜╨╛╨┐╨║╨░ ╨Э╨░╨╖╨░╨┤
+10-17 10:21:17.721 10130 10130 I DetailActivity: Нажата кнопка Назад
 10-17 10:21:17.728 10130 10130 D DetailActivity: onPause
 10-17 10:21:17.738 10130 10130 D MainActivity: onStart
 10-17 10:21:17.738 10130 10130 D MainActivity: onResume
