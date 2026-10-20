@@ -16,7 +16,7 @@
 
 | Главный экран | Просмотр заметки | Создание заметки |
 | :---: | :---: | :---: |
-| <img src="./screen1.png" width="230"/> | <img src="./screen2.png" width="230"/> | <img src="./screen3.png" width="230"/> |
+| <img src="./screenshots/screen1.png" width="230"/> | <img src="./screenshots/screen2.png" width="230"/> | <img src="./screenshots/screen3.png" width="230"/> |
 
 ---
 
